@@ -1,1 +1,1 @@
-# outlive-theme
+# Outlive Theme Wordpress

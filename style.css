@@ -1,0 +1,19 @@
+/*
+Theme Name: Outlive
+Author: Jonas Santos
+Author URI: http://www.finte.com.br
+Description: Outlive Theme
+Version: 1.0
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+*/
+
+@import url("pico.violet.min.css");
+
+img {
+    border-radius: 1em;
+}
+
+.grid-template-columns {
+	grid-template-columns: 1fr 1fr 1fr;
+}
